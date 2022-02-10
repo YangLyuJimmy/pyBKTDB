@@ -1,0 +1,1823 @@
+district_id,location,opportunity_zone,locale_description
+0,Non-US / Unknown,No,None
+1,Alaska,No,None
+2,Arkansas,Yes,Town: Distant
+3,Arkansas,Yes,Rural: Remote
+4,Arkansas,No,None
+5,Alaska,No,None
+6,Alaska,Yes,City: Small
+7,Arkansas,Yes,Rural: Fringe
+9,Alabama,No,None
+10,Alabama,Yes,City: Small
+11,Alabama,Yes,Rural: Distant
+12,Alabama,Yes,Rural: Fringe
+13,Alabama,Yes,City: Small
+14,Alabama,No,None
+15,Alabama,Yes,Town: Distant
+16,Alabama,Yes,Town: Distant
+17,Colorado,Yes,None
+18,Pennsylvania,No,None
+19,Massachusetts,Yes,None
+20,California,Yes,None
+22,Alabama,Yes,Rural: Distant
+23,Alabama,No,None
+24,Alabama,Yes,City: Mid
+26,Alabama,Yes,Rural: Fringe
+27,Alabama,Yes,City: Mid
+29,Wisconsin,Yes,None
+33,Alabama,Yes,Rural: Remote
+35,Alabama,Yes,Rural: Distant
+37,Arkansas,No,None
+38,Arkansas,Contiguous,None
+39,Arkansas,Yes,Town: Distant
+40,Arkansas,No,None
+44,Arkansas,No,None
+45,Arkansas,Yes,Town: Distant
+46,Arkansas,No,None
+47,Non-US / Unknown,No,None
+48,North Carolina,Yes,None
+49,Maine,Yes,None
+50,California,Yes,None
+51,New York,No,None
+52,Minnesota,Yes,None
+53,Connecticut,Yes,None
+54,Texas,No,None
+57,Arkansas,Yes,Town: Distant
+60,Arkansas,No,None
+61,Arkansas,No,None
+62,Arkansas,Yes,Town: Remote
+63,Arkansas,Yes,Town: Distant
+64,Arkansas,Yes,City: Small
+65,Arkansas,Yes,Town: Distant
+66,Arkansas,No,None
+67,Arkansas,Yes,Town: Remote
+69,Arkansas,Yes,Rural: Fringe
+71,Arkansas,Yes,Rural: Fringe
+74,Arkansas,Yes,City: Mid
+75,Arkansas,Yes,City: Mid
+76,Arkansas,Yes,City: Mid
+78,Arkansas,Yes,Rural: Fringe
+79,Arkansas,No,None
+80,Arkansas,No,None
+81,Arkansas,Yes,Rural: Distant
+83,Arkansas,Yes,City: Mid
+84,Arkansas,No,None
+88,California,No,None
+91,Arkansas,Yes,Rural: Fringe
+92,California,No,None
+93,Arkansas,No,None
+96,Arkansas,No,None
+98,Arkansas,Yes,Town: Distant
+99,Arkansas,Yes,City: Small
+103,Arkansas,Yes,City: Small
+104,Arkansas,No,None
+105,Non-US / Unknown,No,None
+106,Arizona,Yes,City: Large
+110,Arizona,Yes,City: Large
+111,Arizona,Yes,Suburb: Large
+113,Georgia,Yes,None
+114,California,No,None
+115,New Jersey,No,None
+116,North Carolina,No,None
+117,Arizona,Yes,City: Large
+118,Arizona,Yes,City: Small
+119,Arizona,Yes,Rural: Fringe
+120,Arizona,Yes,Suburb: Large
+123,Arizona,No,None
+124,Arizona,Yes,Rural: Fringe
+125,Arizona,No,None
+128,Arizona,Yes,City: Large
+131,Arizona,Yes,None
+133,Arizona,No,None
+134,Arizona,No,None
+136,Arizona,Yes,None
+137,Arizona,Yes,None
+138,Arizona,Yes,None
+139,Arizona,Yes,None
+140,Arizona,Yes,None
+141,Arizona,Yes,None
+142,Arizona,Yes,None
+145,California,Yes,None
+146,California,Yes,None
+147,California,No,None
+149,California,No,None
+150,California,Yes,None
+151,California,Yes,None
+152,New York,No,None
+153,California,No,None
+155,California,Yes,None
+156,California,Yes,None
+157,California,Yes,None
+158,California,No,None
+159,California,No,None
+160,California,No,None
+161,California,Yes,None
+162,California,Yes,None
+163,California,Yes,None
+165,California,No,None
+168,California,No,None
+169,California,Yes,None
+171,California,No,None
+172,California,Yes,None
+173,California,Yes,None
+175,North Carolina,Yes,None
+176,California,No,None
+177,California,No,None
+178,California,No,None
+180,California,No,None
+181,California,No,None
+182,California,Yes,None
+183,Georgia,Yes,None
+184,California,No,None
+186,California,No,None
+187,California,No,None
+188,Massachusetts,No,None
+189,California,No,None
+190,California,Yes,None
+191,California,No,None
+192,California,No,None
+194,California,No,None
+195,California,No,None
+196,California,No,None
+197,District of Columbia,No,None
+198,California,No,None
+199,California,No,None
+201,California,No,None
+202,California,No,None
+203,California,Yes,None
+206,California,No,None
+207,California,Yes,None
+208,California,Yes,None
+209,California,No,None
+211,California,No,None
+212,California,Yes,None
+213,California,Yes,None
+214,California,Yes,None
+215,California,No,None
+218,California,Yes,None
+219,California,No,None
+220,California,No,None
+222,California,No,None
+223,California,No,None
+225,California,Yes,None
+226,California,Yes,None
+227,California,No,None
+228,California,No,None
+229,California,Yes,None
+230,California,No,None
+232,California,No,None
+233,California,Yes,None
+234,California,Yes,None
+235,Delaware,Yes,None
+236,Washington,No,None
+237,California,Yes,None
+238,California,Yes,None
+239,California,Yes,None
+240,California,Yes,None
+241,California,No,None
+242,California,Yes,None
+244,California,Yes,None
+245,California,No,None
+246,California,Yes,None
+247,California,Yes,None
+248,California,Contiguous,None
+249,California,Yes,None
+250,California,No,None
+251,California,Yes,None
+252,California,Yes,None
+253,California,Yes,None
+255,California,No,None
+256,Louisiana,No,None
+257,California,No,None
+258,Iowa,No,None
+259,California,No,None
+262,California,No,None
+263,California,No,None
+264,California,Yes,None
+266,California,No,None
+267,Florida,No,None
+269,California,Yes,None
+270,California,No,None
+271,California,No,None
+272,California,Yes,None
+273,California,Yes,None
+274,California,No,None
+275,California,Yes,None
+276,California,No,None
+277,California,Yes,None
+278,California,Yes,None
+280,California,No,None
+281,California,Yes,None
+282,California,No,None
+283,California,Yes,None
+284,North Carolina,No,None
+287,California,No,None
+288,California,No,None
+289,California,No,None
+290,California,Yes,None
+291,California,Yes,None
+292,California,No,None
+293,California,Yes,None
+294,California,Yes,None
+296,California,No,None
+297,California,No,None
+298,California,No,None
+299,California,Yes,None
+300,California,No,None
+303,California,Yes,None
+304,District of Columbia,No,None
+305,Ohio,No,None
+306,California,Yes,None
+308,California,No,None
+310,North Carolina,No,None
+311,Virginia,Yes,None
+312,California,No,None
+313,California,Yes,None
+314,California,Yes,None
+316,Pennsylvania,Yes,None
+317,California,No,None
+318,California,No,None
+319,Rhode Island,No,None
+320,California,Yes,None
+322,California,No,None
+324,California,No,None
+328,California,Yes,None
+329,California,Yes,None
+331,California,Yes,None
+332,California,Yes,None
+333,California,No,None
+334,California,No,None
+335,California,Yes,None
+337,Colorado,Yes,None
+341,Colorado,Yes,None
+342,Colorado,No,None
+343,Colorado,Yes,None
+345,Colorado,Yes,None
+346,Colorado,No,None
+347,California,No,None
+348,Colorado,No,None
+349,Colorado,No,None
+350,Colorado,No,None
+351,Colorado,No,None
+352,Colorado,Yes,None
+353,Colorado,No,None
+354,Colorado,No,None
+355,Colorado,Yes,None
+356,Georgia,No,None
+357,Arizona,Yes,None
+358,Colorado,Yes,None
+359,Colorado,Contiguous,None
+360,Colorado,Yes,None
+362,Colorado,Yes,None
+363,Colorado,Yes,None
+364,Colorado,No,None
+366,Colorado,Yes,None
+367,Colorado,No,None
+368,Colorado,Yes,None
+371,Colorado,No,None
+372,North Carolina,Yes,None
+373,Colorado,No,None
+374,Colorado,Yes,None
+375,Colorado,Yes,None
+376,Colorado,Yes,None
+378,Connecticut,Yes,None
+379,Connecticut,Yes,None
+380,Connecticut,Yes,None
+381,Connecticut,No,None
+382,Connecticut,No,None
+384,Connecticut,No,None
+385,Connecticut,No,None
+386,Connecticut,Yes,None
+387,Connecticut,Yes,None
+388,Connecticut,Yes,None
+389,Connecticut,Yes,None
+390,Connecticut,Yes,None
+391,Connecticut,Yes,None
+392,Connecticut,No,None
+393,Connecticut,No,None
+394,Connecticut,Yes,None
+397,Connecticut,No,None
+398,Connecticut,No,None
+399,Connecticut,Yes,None
+400,North Carolina,Yes,None
+401,North Carolina,Yes,None
+402,Connecticut,Yes,None
+404,Connecticut,Yes,None
+405,Connecticut,No,None
+406,Connecticut,No,None
+407,Connecticut,No,None
+408,Connecticut,No,None
+409,Connecticut,No,None
+410,District of Columbia,No,None
+411,Connecticut,No,None
+412,Connecticut,No,None
+413,Connecticut,Yes,None
+415,Connecticut,No,None
+417,Connecticut,Yes,None
+419,Connecticut,No,None
+420,Connecticut,Yes,None
+423,Connecticut,No,None
+424,Connecticut,Yes,None
+425,Connecticut,Yes,None
+426,Connecticut,No,None
+427,Connecticut,No,None
+428,Connecticut,Yes,None
+430,Connecticut,No,None
+431,Connecticut,No,None
+432,Connecticut,No,None
+433,Connecticut,No,None
+434,Connecticut,No,None
+435,Connecticut,No,None
+436,Connecticut,No,None
+438,Connecticut,No,None
+439,Connecticut,No,None
+440,Connecticut,No,None
+443,Iowa,Yes,None
+445,Connecticut,Yes,None
+446,Florida,Yes,None
+447,Vermont,No,None
+449,Illinois,Yes,None
+450,Illinois,No,None
+451,Florida,Yes,None
+452,Florida,Yes,None
+453,Illinois,No,None
+455,Florida,Yes,None
+457,Florida,No,None
+458,Florida,No,None
+459,Florida,No,None
+461,District of Columbia,No,None
+462,Georgia,Yes,None
+465,Florida,Yes,None
+466,Florida,No,None
+469,Florida,Yes,None
+470,Florida,No,None
+472,Florida,Yes,None
+474,Florida,No,None
+476,New York,Yes,None
+477,Georgia,No,None
+478,Georgia,Yes,None
+479,Georgia,Yes,None
+480,Georgia,No,None
+484,Georgia,No,None
+485,New York,No,None
+486,Non-US / Unknown,No,None
+487,Arizona,Yes,None
+488,California,Yes,None
+489,Georgia,No,None
+491,Georgia,No,None
+492,Georgia,No,None
+493,Georgia,No,None
+494,Georgia,Yes,None
+496,Georgia,No,None
+498,Georgia,Yes,None
+499,Georgia,Yes,None
+501,Georgia,Yes,None
+502,Georgia,Yes,None
+503,Georgia,Yes,None
+504,Georgia,No,None
+507,Georgia,No,None
+508,Georgia,Yes,None
+509,California,No,None
+510,California,Yes,None
+512,Georgia,No,None
+514,Georgia,No,None
+515,Georgia,Yes,None
+516,Georgia,No,None
+520,Georgia,No,None
+521,California,Yes,None
+522,Georgia,No,None
+523,Georgia,No,None
+524,Alabama,Yes,None
+525,Georgia,Yes,None
+526,Georgia,Yes,None
+527,Georgia,Yes,None
+528,Georgia,Yes,None
+529,Georgia,Yes,None
+530,Georgia,Yes,None
+531,North Carolina,Contiguous,None
+533,Georgia,Yes,None
+535,Georgia,No,None
+536,Georgia,No,None
+537,Georgia,Yes,None
+538,Georgia,No,None
+539,Georgia,Yes,None
+540,Georgia,Yes,None
+541,Georgia,Yes,None
+542,Georgia,Yes,None
+543,Georgia,No,None
+544,Georgia,Yes,None
+547,Hawaii,No,None
+548,Hawaii,Contiguous,None
+550,Hawaii,No,None
+554,Hawaii,No,None
+555,Hawaii,Yes,None
+556,Iowa,No,None
+558,Iowa,No,None
+559,Iowa,No,None
+560,Iowa,No,None
+561,Iowa,No,None
+562,Iowa,No,None
+563,Iowa,No,None
+564,Iowa,No,None
+566,Iowa,Yes,None
+567,Iowa,Yes,None
+571,North Carolina,Yes,None
+572,Iowa,No,None
+573,Iowa,No,None
+574,Iowa,No,None
+575,Iowa,Yes,None
+577,Iowa,Yes,None
+578,Iowa,No,None
+582,Iowa,Yes,None
+583,Iowa,Yes,None
+585,Iowa,No,None
+586,Iowa,No,None
+587,Iowa,No,None
+588,Iowa,No,None
+589,Iowa,No,None
+591,Iowa,No,None
+592,Iowa,Yes,None
+593,Iowa,No,None
+594,Iowa,Yes,None
+597,Iowa,Yes,None
+598,Iowa,No,None
+600,Iowa,No,None
+601,Iowa,No,None
+604,Iowa,Yes,None
+605,Iowa,No,None
+606,Iowa,No,None
+608,Iowa,No,None
+609,Iowa,No,None
+612,Idaho,No,None
+613,Idaho,No,None
+614,Idaho,No,None
+615,Idaho,No,None
+616,Idaho,No,None
+617,Idaho,No,None
+618,Idaho,No,None
+619,Idaho,No,None
+620,Idaho,Yes,None
+621,Idaho,Yes,None
+622,Idaho,Contiguous,None
+623,Idaho,Yes,None
+624,Idaho,Yes,None
+625,Idaho,Yes,None
+626,Idaho,No,None
+627,Idaho,No,None
+628,New York,No,None
+631,Idaho,No,None
+632,Idaho,Yes,None
+633,Idaho,Yes,None
+634,Idaho,No,None
+636,Illinois,No,None
+637,Illinois,No,None
+639,Illinois,No,None
+641,Illinois,No,None
+644,Illinois,Yes,None
+645,Illinois,No,None
+646,Illinois,Yes,None
+647,Illinois,Yes,None
+649,New York,No,None
+650,Illinois,Yes,None
+652,Illinois,No,None
+653,Illinois,Yes,None
+654,Illinois,No,None
+655,Washington,Yes,None
+656,California,No,None
+658,Illinois,Yes,None
+659,Illinois,No,None
+661,Illinois,Yes,None
+664,Illinois,No,None
+665,Illinois,Yes,None
+667,Illinois,No,None
+669,Illinois,Yes,None
+670,Illinois,No,None
+671,Illinois,No,None
+672,Illinois,No,None
+674,Illinois,No,None
+675,Illinois,No,None
+677,Illinois,No,None
+678,Virginia,Yes,None
+679,Illinois,Yes,None
+680,Illinois,Yes,None
+681,Illinois,No,None
+682,Illinois,No,None
+685,Illinois,Yes,None
+686,Illinois,Yes,None
+687,Illinois,Yes,None
+688,Illinois,No,None
+689,Illinois,Yes,None
+690,Illinois,Yes,None
+691,Illinois,No,None
+692,Illinois,Yes,None
+693,Illinois,Yes,None
+694,Illinois,Yes,None
+696,Illinois,Yes,None
+697,Illinois,No,None
+698,Illinois,Yes,None
+699,Illinois,No,None
+700,Illinois,No,None
+703,Illinois,No,None
+704,Pennsylvania,No,None
+705,Illinois,No,None
+706,Illinois,No,None
+707,Illinois,No,None
+709,Illinois,No,None
+710,Illinois,Yes,None
+711,Illinois,No,None
+712,Illinois,Yes,None
+713,Illinois,No,None
+714,Illinois,Yes,None
+715,Illinois,Yes,None
+716,California,Yes,None
+717,Iowa,No,None
+720,District of Columbia,No,None
+722,Illinois,No,None
+723,Illinois,No,None
+725,Illinois,Yes,None
+726,Illinois,No,None
+728,Illinois,Yes,None
+729,Illinois,No,None
+730,Illinois,No,None
+731,Illinois,No,None
+732,Illinois,Yes,None
+734,Washington,Yes,None
+736,New York,Yes,None
+737,California,Yes,None
+741,Illinois,No,None
+743,Non-US / Unknown,No,None
+745,Illinois,No,None
+746,California,No,None
+748,Illinois,No,None
+751,Indiana,Yes,None
+756,Indiana,Yes,None
+757,Indiana,Yes,None
+758,Indiana,No,None
+759,Indiana,Yes,None
+760,Indiana,Yes,None
+761,Indiana,No,None
+762,Massachusetts,Yes,None
+763,Indiana,No,None
+764,Indiana,Yes,None
+769,Indiana,No,None
+770,Indiana,Yes,None
+771,Indiana,Yes,None
+772,Indiana,No,None
+773,Indiana,No,None
+774,Indiana,Yes,None
+775,Indiana,No,None
+776,Indiana,Yes,None
+777,Indiana,Yes,None
+779,Connecticut,No,None
+780,Connecticut,No,None
+781,Non-US / Unknown,No,None
+782,New Mexico,Yes,None
+785,Kansas,Yes,Town: Remote
+788,Kansas,Yes,None
+790,Kansas,No,None
+791,Kansas,Yes,None
+793,Kansas,No,None
+795,Kansas,No,None
+797,Kansas,Yes,None
+799,Kansas,No,None
+801,Kansas,No,None
+802,Kentucky,No,None
+804,Kentucky,Yes,None
+806,Kentucky,Yes,None
+809,Kentucky,No,None
+810,Kentucky,Yes,None
+811,Kentucky,Yes,None
+813,Kentucky,No,None
+814,Kentucky,Yes,None
+815,Kentucky,Yes,None
+816,Kentucky,Yes,None
+817,Kentucky,Yes,None
+818,Kentucky,Yes,None
+819,Kentucky,Yes,None
+820,Kentucky,No,None
+821,Kentucky,No,None
+824,Arkansas,Yes,None
+825,New Hampshire,No,None
+826,Kentucky,Yes,None
+827,Kentucky,No,None
+828,Kentucky,Yes,None
+829,Kentucky,Yes,None
+830,Kentucky,Yes,None
+831,Kentucky,Yes,None
+832,Kentucky,No,None
+834,Kentucky,Yes,None
+835,Kentucky,No,None
+838,Wisconsin,No,None
+840,Kentucky,Yes,None
+843,Kentucky,Yes,None
+846,Kentucky,No,None
+848,Kentucky,No,None
+850,Kentucky,No,None
+852,Kentucky,Yes,None
+853,Louisiana,No,None
+854,Louisiana,No,None
+855,Louisiana,Yes,None
+856,Louisiana,Yes,None
+857,Louisiana,No,None
+858,Louisiana,Yes,None
+859,Louisiana,Yes,None
+862,Louisiana,No,None
+864,Louisiana,No,None
+866,Louisiana,No,None
+867,Louisiana,Yes,None
+869,Louisiana,Yes,None
+870,Louisiana,Yes,None
+871,Louisiana,No,None
+873,Louisiana,No,None
+874,Louisiana,No,None
+875,Louisiana,No,None
+876,Louisiana,Yes,None
+877,Louisiana,Yes,None
+878,Louisiana,Yes,None
+879,Louisiana,Yes,None
+881,Louisiana,No,None
+882,Louisiana,No,None
+883,Louisiana,Yes,None
+884,Louisiana,Yes,None
+885,Louisiana,Yes,None
+886,Louisiana,No,None
+887,Louisiana,Yes,None
+888,Louisiana,No,None
+889,Louisiana,No,None
+893,Louisiana,Yes,None
+894,Louisiana,No,None
+895,Louisiana,Yes,None
+896,Louisiana,Yes,None
+897,Louisiana,Yes,None
+898,Louisiana,No,None
+899,Louisiana,Yes,None
+900,Louisiana,No,None
+901,Massachusetts,No,None
+904,Massachusetts,No,None
+906,Massachusetts,No,None
+907,Massachusetts,Yes,None
+908,Massachusetts,No,None
+911,Massachusetts,Yes,None
+912,Massachusetts,No,None
+916,Massachusetts,No,None
+919,Massachusetts,No,None
+921,Massachusetts,No,None
+922,Massachusetts,Yes,None
+923,Massachusetts,No,None
+924,Massachusetts,No,None
+925,Massachusetts,No,None
+927,Massachusetts,No,None
+928,Massachusetts,No,None
+929,Massachusetts,Yes,None
+930,Nevada,No,None
+932,Massachusetts,No,None
+933,Massachusetts,Yes,None
+934,Florida,Yes,None
+935,Massachusetts,Yes,None
+937,Massachusetts,No,None
+938,Massachusetts,Yes,None
+940,Massachusetts,No,None
+941,Massachusetts,No,None
+942,Massachusetts,No,None
+945,Massachusetts,No,None
+947,Massachusetts,Yes,None
+950,Massachusetts,No,None
+951,Massachusetts,Yes,None
+952,Massachusetts,No,None
+953,Massachusetts,Yes,None
+954,Massachusetts,Yes,None
+955,Massachusetts,Yes,None
+956,Florida,Yes,None
+958,California,Yes,None
+960,Washington,Yes,None
+963,Massachusetts,Yes,None
+964,Massachusetts,No,None
+965,Ohio,Yes,None
+966,Massachusetts,Yes,None
+967,Massachusetts,No,None
+969,Massachusetts,Yes,None
+970,Massachusetts,Yes,None
+971,Vermont,No,None
+972,Massachusetts,Yes,None
+973,Massachusetts,No,None
+976,Massachusetts,No,None
+977,Massachusetts,No,None
+978,Massachusetts,Yes,None
+979,Massachusetts,Yes,None
+980,Massachusetts,Yes,None
+981,Massachusetts,Yes,None
+982,Missouri,Yes,None
+984,Massachusetts,No,None
+985,Massachusetts,Yes,None
+986,Massachusetts,No,None
+988,Massachusetts,Yes,None
+990,Massachusetts,No,None
+992,Massachusetts,Yes,None
+993,Massachusetts,No,None
+994,Massachusetts,Yes,None
+995,Massachusetts,No,None
+996,Massachusetts,Yes,None
+997,Massachusetts,No,None
+998,Massachusetts,Yes,None
+999,Massachusetts,Yes,None
+1002,North Carolina,No,None
+1003,Idaho,No,None
+1006,California,No,None
+1007,Alabama,Yes,None
+1008,Massachusetts,Yes,None
+1011,Massachusetts,No,None
+1013,Massachusetts,No,None
+1014,North Carolina,Yes,None
+1015,Massachusetts,Yes,None
+1017,Massachusetts,No,None
+1018,Massachusetts,No,None
+1019,Massachusetts,Yes,None
+1021,Massachusetts,Yes,None
+1024,Massachusetts,Yes,None
+1025,Massachusetts,No,None
+1026,Massachusetts,No,None
+1028,Massachusetts,Yes,None
+1029,Massachusetts,No,None
+1032,Massachusetts,No,None
+1033,Massachusetts,No,None
+1034,Massachusetts,No,None
+1035,Massachusetts,No,None
+1036,Massachusetts,No,None
+1037,Massachusetts,No,None
+1041,Massachusetts,No,None
+1043,Massachusetts,No,None
+1045,Massachusetts,No,None
+1047,Massachusetts,No,None
+1049,Massachusetts,No,None
+1051,Massachusetts,Contiguous,None
+1052,Massachusetts,Contiguous,None
+1053,Massachusetts,No,None
+1056,Massachusetts,Yes,None
+1058,Massachusetts,Yes,None
+1062,Massachusetts,No,None
+1063,Massachusetts,No,None
+1064,Massachusetts,No,None
+1065,Massachusetts,No,None
+1066,Massachusetts,No,None
+1067,Massachusetts,No,None
+1068,Non-US / Unknown,No,None
+1069,Maryland,No,None
+1071,Maryland,Yes,None
+1072,Maryland,Yes,None
+1073,Utah,Yes,None
+1074,California,No,None
+1076,Massachusetts,Yes,None
+1077,Oklahoma,No,None
+1078,Rhode Island,No,None
+1079,District of Columbia,No,None
+1080,California,Yes,None
+1081,California,Yes,None
+1082,Missouri,Yes,None
+1083,California,No,None
+1085,Ohio,No,None
+1087,Maryland,Yes,None
+1089,Maryland,No,None
+1090,Maryland,No,None
+1091,Maryland,Yes,None
+1092,Maryland,Yes,None
+1093,Maryland,Yes,None
+1094,Maryland,Yes,None
+1095,Maryland,No,None
+1097,Maryland,No,None
+1098,Maryland,Yes,None
+1099,Maryland,Yes,None
+1100,Maryland,No,None
+1102,Maryland,Yes,None
+1104,Maine,No,None
+1107,Maine,No,None
+1108,Maine,No,None
+1110,Maine,No,None
+1116,Maine,No,None
+1117,Maine,No,None
+1118,Maine,No,None
+1119,Maine,No,None
+1120,Maine,No,None
+1121,Maine,No,None
+1124,Maine,No,None
+1126,Maine,No,None
+1127,Maine,Yes,None
+1129,Maine,Yes,None
+1131,Maine,No,None
+1132,Maine,No,None
+1133,Maine,Yes,None
+1134,Maine,No,None
+1135,Maine,No,None
+1136,Maine,No,None
+1137,Maine,No,None
+1139,Maine,No,None
+1142,Maine,Yes,None
+1144,California,No,None
+1145,Massachusetts,Yes,None
+1150,Maine,Yes,None
+1151,Maine,Yes,None
+1154,Non-US / Unknown,No,None
+1156,Michigan,Yes,None
+1157,Non-US / Unknown,No,None
+1158,Michigan,No,None
+1159,Michigan,Yes,None
+1160,Michigan,No,None
+1161,Michigan,No,None
+1163,Michigan,No,None
+1164,Pennsylvania,No,None
+1165,Michigan,No,None
+1167,Michigan,Yes,None
+1168,Michigan,Yes,None
+1169,Michigan,Yes,None
+1171,Michigan,Yes,None
+1172,Michigan,No,None
+1173,Michigan,Yes,None
+1175,Michigan,No,None
+1178,Michigan,Yes,None
+1179,Michigan,No,None
+1180,Michigan,No,None
+1181,Michigan,Yes,None
+1182,Michigan,No,None
+1183,Michigan,No,None
+1184,California,Yes,None
+1185,Michigan,Yes,None
+1187,Georgia,Yes,None
+1189,Michigan,No,None
+1190,Michigan,Yes,None
+1191,Michigan,Yes,None
+1192,Michigan,Yes,None
+1194,Michigan,No,None
+1195,Michigan,Yes,None
+1196,Michigan,No,None
+1197,Michigan,No,None
+1198,Michigan,No,None
+1199,Massachusetts,No,None
+1200,Michigan,Yes,None
+1201,Michigan,No,None
+1202,Michigan,No,None
+1203,Michigan,No,None
+1204,Michigan,Yes,None
+1205,Michigan,No,None
+1206,Michigan,Yes,None
+1207,Michigan,No,None
+1209,Michigan,No,None
+1211,Michigan,Yes,None
+1212,Michigan,No,None
+1215,Minnesota,No,None
+1216,Minnesota,Yes,None
+1219,Minnesota,Yes,None
+1220,Minnesota,Yes,None
+1221,Minnesota,No,None
+1222,Minnesota,No,None
+1223,Minnesota,No,None
+1224,Minnesota,Yes,None
+1227,Minnesota,Yes,None
+1229,Minnesota,No,None
+1230,Minnesota,No,None
+1232,Missouri,No,None
+1234,Missouri,No,None
+1237,California,Yes,None
+1238,Missouri,Yes,None
+1239,Nevada,No,None
+1243,Missouri,Yes,None
+1245,Missouri,No,None
+1247,Missouri,Yes,None
+1248,Missouri,No,None
+1249,Missouri,No,None
+1254,Missouri,Yes,None
+1256,Missouri,No,None
+1258,Missouri,Yes,None
+1260,Missouri,No,None
+1262,Kentucky,Yes,None
+1263,Missouri,No,None
+1264,Missouri,Yes,None
+1265,Missouri,Yes,None
+1266,Missouri,No,None
+1267,Connecticut,Yes,None
+1269,Missouri,No,None
+1270,Vermont,Yes,None
+1271,Missouri,No,None
+1273,Mississippi,No,None
+1274,New York,No,None
+1275,Mississippi,No,None
+1276,Mississippi,No,None
+1279,Montana,No,None
+1280,Montana,No,None
+1283,North Carolina,Yes,None
+1284,Montana,No,None
+1285,Montana,Yes,None
+1287,Montana,Yes,None
+1288,Montana,Yes,None
+1289,Non-US / Unknown,No,None
+1290,North Carolina,Yes,None
+1291,North Carolina,Yes,None
+1293,North Carolina,No,None
+1294,North Carolina,Yes,None
+1295,North Carolina,Yes,None
+1296,North Carolina,No,None
+1297,North Carolina,Yes,None
+1299,North Carolina,Contiguous,None
+1300,North Carolina,Yes,None
+1302,North Carolina,No,None
+1303,North Carolina,Yes,None
+1304,North Carolina,Yes,None
+1306,North Carolina,No,None
+1307,North Carolina,Yes,None
+1308,North Carolina,Yes,None
+1309,North Carolina,No,None
+1310,North Carolina,Yes,None
+1312,North Carolina,Yes,None
+1314,North Carolina,No,None
+1317,North Carolina,Yes,None
+1318,California,No,None
+1319,North Carolina,Yes,None
+1320,North Carolina,Yes,None
+1323,North Carolina,Yes,None
+1324,North Carolina,Yes,None
+1325,North Carolina,Yes,None
+1327,North Carolina,Yes,None
+1328,North Carolina,Yes,None
+1329,North Carolina,Yes,None
+1331,North Carolina,Yes,None
+1332,North Carolina,Yes,None
+1334,North Carolina,No,None
+1335,North Carolina,Yes,None
+1336,North Carolina,No,None
+1337,North Carolina,No,None
+1338,North Carolina,No,None
+1339,North Carolina,No,None
+1343,New York,No,None
+1344,North Carolina,Yes,None
+1345,North Carolina,Yes,None
+1346,New Jersey,Yes,None
+1347,North Carolina,Yes,None
+1349,Texas,No,None
+1350,North Carolina,Yes,None
+1354,North Carolina,Yes,None
+1355,Minnesota,No,None
+1356,California,No,None
+1357,North Carolina,No,None
+1358,North Carolina,Yes,None
+1359,North Carolina,Yes,None
+1361,North Carolina,Yes,None
+1362,North Carolina,Yes,None
+1363,North Carolina,No,None
+1364,North Carolina,Yes,None
+1365,North Carolina,Yes,None
+1367,North Carolina,No,None
+1368,North Carolina,Yes,None
+1369,North Carolina,Yes,None
+1370,North Carolina,Yes,None
+1373,North Carolina,Yes,None
+1374,North Carolina,No,None
+1377,North Carolina,No,None
+1378,North Dakota,No,None
+1379,North Dakota,Yes,None
+1381,North Dakota,Yes,None
+1382,North Dakota,No,None
+1384,Nebraska,No,None
+1386,Nebraska,No,None
+1387,Nebraska,No,None
+1388,Nebraska,No,None
+1389,Nebraska,No,None
+1390,Non-US / Unknown,No,None
+1392,New Hampshire,No,None
+1393,New Hampshire,Yes,None
+1394,New Hampshire,No,None
+1395,New Hampshire,No,None
+1396,New Hampshire,Yes,None
+1397,New Hampshire,No,None
+1398,New Hampshire,No,None
+1399,New Hampshire,No,None
+1400,New Hampshire,No,None
+1401,Vermont,No,None
+1402,Michigan,Yes,None
+1406,New Hampshire,Yes,None
+1407,New Hampshire,No,None
+1408,New Hampshire,No,None
+1409,New Hampshire,No,None
+1410,New Hampshire,Yes,None
+1411,New Hampshire,Yes,None
+1412,New Hampshire,No,None
+1413,New Hampshire,No,None
+1414,New Hampshire,No,None
+1415,New Hampshire,No,None
+1418,New Hampshire,No,None
+1420,New Jersey,No,None
+1421,New Jersey,No,None
+1424,New Jersey,Yes,None
+1425,Massachusetts,Yes,None
+1426,New Jersey,No,None
+1427,New Jersey,No,None
+1429,New Jersey,No,None
+1430,New Jersey,No,None
+1432,New Jersey,Yes,None
+1433,New Jersey,Yes,None
+1434,New Jersey,No,None
+1436,New Jersey,Yes,None
+1437,New Jersey,No,None
+1439,New Jersey,No,None
+1440,New Jersey,Yes,None
+1441,New Jersey,No,None
+1442,New Jersey,No,None
+1444,New Jersey,Yes,None
+1445,New Jersey,Yes,None
+1447,New Jersey,No,None
+1448,New Jersey,No,None
+1450,New Jersey,No,None
+1451,New Jersey,Yes,None
+1452,New Jersey,No,None
+1455,New Jersey,No,None
+1456,North Carolina,No,None
+1457,New Jersey,No,None
+1458,New Jersey,No,None
+1459,New Jersey,Yes,None
+1460,New Jersey,Yes,None
+1461,New Jersey,Yes,None
+1462,New Jersey,Yes,None
+1463,New Jersey,No,None
+1467,New Jersey,Yes,None
+1468,New Jersey,Yes,None
+1469,New Jersey,Yes,None
+1470,New Jersey,No,None
+1474,New Jersey,No,None
+1475,New Jersey,Yes,None
+1478,New Jersey,No,None
+1480,New Jersey,No,None
+1481,New Jersey,No,None
+1482,New Jersey,Yes,None
+1483,New Jersey,No,None
+1485,New Jersey,No,None
+1486,New Jersey,No,None
+1487,New Jersey,No,None
+1488,New Jersey,No,None
+1490,New Jersey,Yes,None
+1492,New Mexico,No,None
+1493,New Mexico,Contiguous,None
+1494,New Mexico,No,None
+1496,New Mexico,Yes,None
+1497,New Mexico,No,None
+1499,New Mexico,Yes,None
+1500,New Mexico,Yes,None
+1502,New Mexico,No,None
+1503,New Mexico,No,None
+1504,New Mexico,Yes,None
+1505,New Mexico,Yes,None
+1506,New Mexico,Yes,None
+1507,New Mexico,No,None
+1508,California,No,None
+1510,New Mexico,Yes,None
+1511,Washington,No,None
+1513,Nevada,No,None
+1515,Nevada,No,None
+1516,Nevada,Yes,None
+1517,Washington,No,None
+1519,Nevada,No,None
+1520,Nevada,Yes,None
+1521,Nevada,No,None
+1523,New York,Yes,None
+1524,New York,Yes,None
+1525,New York,Yes,None
+1526,New York,Yes,None
+1529,New York,Yes,None
+1530,New York,No,None
+1531,New York,Yes,None
+1532,New York,Yes,None
+1534,New York,No,None
+1535,New York,No,None
+1536,New York,No,None
+1538,New York,Yes,None
+1540,New York,Yes,None
+1541,New York,No,None
+1542,New York,No,None
+1545,New York,No,None
+1547,New York,No,None
+1548,New York,Yes,None
+1550,New York,No,None
+1551,New York,Yes,None
+1552,New York,No,None
+1554,New York,Yes,None
+1556,New York,No,None
+1557,New York,Yes,None
+1558,New York,No,None
+1559,New York,Contiguous,None
+1560,New York,No,None
+1561,New York,Yes,None
+1562,New York,No,None
+1564,New York,No,None
+1565,New York,Yes,None
+1566,New York,Yes,None
+1568,New York,Yes,None
+1569,New York,No,None
+1570,New York,Yes,None
+1571,New York,Yes,None
+1572,New York,No,None
+1573,New York,No,None
+1574,New York,No,None
+1575,New York,Contiguous,None
+1577,New York,Yes,None
+1581,New York,Yes,None
+1583,New York,Yes,None
+1584,New York,No,None
+1585,New York,Contiguous,None
+1586,New York,No,None
+1587,New York,Yes,None
+1588,New York,No,None
+1590,New York,Yes,None
+1592,New York,No,None
+1594,New York,No,None
+1595,New York,Yes,None
+1596,New York,Yes,None
+1597,New York,Yes,None
+1598,New York,No,None
+1599,New York,Yes,None
+1602,New York,Yes,None
+1603,New York,Yes,None
+1605,New York,Contiguous,None
+1606,New York,Yes,None
+1608,New York,No,None
+1609,New York,Yes,None
+1611,New York,Yes,None
+1612,New York,No,None
+1614,New York,Yes,None
+1615,New York,Yes,None
+1617,New York,Yes,None
+1618,New York,No,None
+1619,California,No,None
+1620,New York,No,None
+1621,New York,No,None
+1622,New York,Yes,None
+1623,New York,Yes,None
+1624,New York,Yes,None
+1628,New York,Yes,None
+1629,New York,Yes,None
+1632,New York,No,None
+1633,New York,No,None
+1634,New York,No,None
+1635,New York,Yes,None
+1640,New York,Yes,None
+1641,New York,Yes,None
+1643,New York,Yes,None
+1645,New York,Yes,None
+1646,New York,No,None
+1649,New York,Yes,None
+1650,New York,No,None
+1654,California,No,None
+1655,New York,No,None
+1657,New York,Yes,None
+1658,New York,No,None
+1660,New York,Yes,None
+1661,New York,Yes,None
+1662,New York,No,None
+1665,New York,Yes,None
+1666,Illinois,No,None
+1667,New York,Contiguous,None
+1668,New York,Yes,None
+1670,New York,No,None
+1672,New York,Yes,None
+1675,New York,Yes,None
+1677,New York,No,None
+1681,New York,Yes,None
+1682,New York,No,None
+1684,New York,Yes,None
+1687,New York,No,None
+1688,New York,No,None
+1689,New York,Yes,None
+1690,New York,Yes,None
+1691,New York,No,None
+1692,New York,Yes,None
+1693,New York,Yes,None
+1694,New York,Yes,None
+1695,New York,Yes,None
+1696,New York,Yes,None
+1697,New York,Yes,None
+1698,New York,Yes,None
+1699,New York,No,None
+1700,New York,Yes,None
+1701,New York,Yes,None
+1702,New York,Yes,None
+1703,New York,No,None
+1704,New York,No,None
+1705,New York,Yes,None
+1706,New York,Yes,None
+1707,New York,No,None
+1708,New York,No,None
+1709,New York,Yes,None
+1710,New York,No,None
+1711,New York,Yes,None
+1712,New York,Contiguous,None
+1713,New York,Contiguous,None
+1714,New York,Yes,None
+1715,New York,Yes,None
+1716,New York,Yes,None
+1717,New York,Yes,None
+1718,New York,Contiguous,None
+1719,New York,Yes,None
+1720,New York,Yes,None
+1721,New York,No,None
+1722,New York,Yes,None
+1723,New York,Yes,None
+1724,New York,Yes,None
+1725,New York,Yes,None
+1726,New York,No,None
+1727,New York,Yes,None
+1728,New York,No,None
+1729,New York,No,None
+1730,New York,Yes,None
+1731,New York,Yes,None
+1733,New York,No,None
+1734,New York,Yes,None
+1736,New York,No,None
+1738,New York,Yes,None
+1739,New York,Yes,None
+1740,New York,No,None
+1741,New York,No,None
+1742,New York,Yes,None
+1743,New York,No,None
+1744,New York,Yes,None
+1745,New York,No,None
+1746,New York,No,None
+1747,New York,No,None
+1748,New York,Contiguous,None
+1750,New York,Yes,None
+1751,New York,No,None
+1752,New York,Yes,None
+1753,New York,No,None
+1754,New York,No,None
+1755,New York,No,None
+1756,New York,No,None
+1757,New York,No,None
+1760,New York,No,None
+1761,New York,Yes,None
+1762,New York,No,None
+1764,New York,No,None
+1768,New York,No,None
+1769,New York,Yes,None
+1770,New York,No,None
+1771,New York,No,None
+1772,New York,No,None
+1773,New York,Yes,None
+1779,New York,No,None
+1780,New York,Yes,None
+1781,New York,No,None
+1782,New York,Yes,None
+1783,New York,No,None
+1784,New York,Yes,None
+1785,New York,No,None
+1787,New York,No,None
+1788,New York,Yes,None
+1789,Ohio,No,None
+1790,Ohio,Yes,None
+1791,Ohio,Yes,None
+1792,Ohio,No,None
+1795,Ohio,Yes,None
+1797,Ohio,Yes,None
+1800,Ohio,No,None
+1802,Ohio,No,None
+1803,Ohio,No,None
+1804,Ohio,No,None
+1806,Ohio,Yes,None
+1807,Ohio,No,None
+1809,Ohio,No,None
+1810,Ohio,No,None
+1812,Ohio,No,None
+1813,Ohio,No,None
+1815,Ohio,No,None
+1817,Ohio,No,None
+1821,Ohio,No,None
+1824,Ohio,No,None
+1825,Ohio,No,None
+1826,Ohio,Yes,None
+1827,Ohio,No,None
+1828,Ohio,Yes,None
+1829,Ohio,Yes,None
+1830,Ohio,No,None
+1832,Ohio,Yes,None
+1834,Ohio,No,None
+1835,Ohio,Yes,None
+1836,Ohio,No,None
+1837,Ohio,No,None
+1839,Ohio,No,None
+1840,Ohio,Yes,None
+1841,Ohio,Yes,None
+1842,Ohio,Yes,None
+1843,Ohio,Yes,None
+1844,Ohio,No,None
+1845,Ohio,No,None
+1846,Ohio,Yes,None
+1847,Ohio,No,None
+1848,Ohio,Yes,None
+1849,Ohio,Yes,None
+1850,Ohio,No,None
+1851,Ohio,Yes,None
+1853,Ohio,No,None
+1856,Ohio,Yes,None
+1857,Ohio,No,None
+1858,Ohio,Yes,None
+1860,Oklahoma,Yes,None
+1861,Oklahoma,Yes,None
+1862,Oklahoma,No,None
+1866,Oklahoma,No,None
+1868,Oklahoma,No,None
+1869,Oklahoma,Yes,None
+1871,Oregon,Yes,None
+1875,Washington,Yes,None
+1879,Oregon,No,None
+1880,Oregon,Yes,None
+1883,Oregon,Yes,None
+1884,New York,No,None
+1886,Oregon,Yes,None
+1888,Oregon,Yes,None
+1889,Oregon,No,None
+1890,Oregon,No,None
+1891,Oregon,Yes,None
+1893,Oregon,Contiguous,None
+1894,Oregon,No,None
+1896,Oregon,No,None
+1897,California,Yes,None
+1899,Oregon,No,None
+1900,Oregon,Yes,None
+1901,Connecticut,No,None
+1902,Oregon,No,None
+1903,Pennsylvania,No,None
+1904,Pennsylvania,Yes,None
+1905,Pennsylvania,Yes,None
+1907,Pennsylvania,No,None
+1908,Pennsylvania,No,None
+1909,Pennsylvania,Yes,None
+1910,Pennsylvania,Yes,None
+1911,Pennsylvania,Yes,None
+1913,Pennsylvania,No,None
+1914,Pennsylvania,Yes,None
+1915,Pennsylvania,No,None
+1916,Pennsylvania,Yes,None
+1917,Pennsylvania,No,None
+1919,Pennsylvania,Yes,None
+1921,Pennsylvania,No,None
+1922,Pennsylvania,Yes,None
+1924,Pennsylvania,Yes,None
+1925,Pennsylvania,No,None
+1927,Pennsylvania,No,None
+1928,Pennsylvania,No,None
+1929,Pennsylvania,Yes,None
+1932,Pennsylvania,No,None
+1933,Pennsylvania,No,None
+1934,Pennsylvania,Yes,None
+1936,Pennsylvania,No,None
+1937,Pennsylvania,No,None
+1938,Pennsylvania,No,None
+1939,Pennsylvania,No,None
+1940,Pennsylvania,No,None
+1941,Pennsylvania,No,None
+1944,Pennsylvania,No,None
+1945,Pennsylvania,Yes,None
+1948,Pennsylvania,No,None
+1949,Pennsylvania,Yes,None
+1950,Pennsylvania,Yes,None
+1951,Pennsylvania,No,None
+1952,Pennsylvania,No,None
+1953,Pennsylvania,No,None
+1954,Pennsylvania,No,None
+1956,Pennsylvania,No,None
+1957,Pennsylvania,No,None
+1958,Pennsylvania,Yes,None
+1959,Pennsylvania,Yes,None
+1961,Pennsylvania,Yes,None
+1962,Pennsylvania,Yes,None
+1963,Pennsylvania,No,None
+1964,Pennsylvania,Yes,None
+1965,Pennsylvania,No,None
+1967,Pennsylvania,No,None
+1970,Pennsylvania,No,None
+1971,Pennsylvania,Yes,None
+1972,Non-US / Unknown,No,None
+1974,Rhode Island,No,None
+1975,Massachusetts,No,None
+1976,Rhode Island,No,None
+1978,Rhode Island,No,None
+1979,Rhode Island,Yes,None
+1980,Rhode Island,Yes,None
+1981,Rhode Island,No,None
+1982,Rhode Island,No,None
+1983,Iowa,No,None
+1984,Rhode Island,Yes,None
+1986,Rhode Island,Yes,None
+1987,Rhode Island,No,None
+1988,Rhode Island,No,None
+1989,Rhode Island,No,None
+1990,Rhode Island,No,None
+1991,Rhode Island,No,None
+1992,Rhode Island,No,None
+1993,Rhode Island,Yes,None
+1994,Rhode Island,Yes,None
+1995,Rhode Island,Yes,None
+1996,Rhode Island,No,None
+1998,North Carolina,Yes,None
+1999,Rhode Island,Yes,None
+2002,Ohio,No,None
+2003,California,Yes,None
+2004,New York,No,None
+2005,Texas,Yes,None
+2006,California,No,None
+2007,California,Yes,None
+2009,California,Yes,None
+2010,Massachusetts,No,None
+2013,California,Yes,None
+2014,New York,Yes,None
+2016,New Hampshire,Yes,None
+2017,New Hampshire,No,None
+2019,California,No,None
+2021,Ohio,Yes,None
+2022,California,No,None
+2023,Pennsylvania,Yes,None
+2024,Maine,No,None
+2025,Georgia,Yes,None
+2029,California,Yes,None
+2030,Missouri,No,None
+2031,Michigan,No,None
+2032,Rhode Island,Yes,None
+2035,Virginia,Yes,None
+2036,California,No,None
+2037,California,No,None
+2039,Ohio,Yes,None
+2040,Ohio,No,None
+2042,Arizona,No,None
+2046,Wisconsin,No,None
+2047,Arkansas,Yes,None
+2048,Kansas,No,None
+2049,Massachusetts,No,None
+2051,Rhode Island,No,None
+2052,Rhode Island,Yes,None
+2054,South Carolina,No,None
+2055,South Carolina,Yes,None
+2056,South Carolina,Yes,None
+2057,South Carolina,No,None
+2058,South Carolina,No,None
+2059,South Carolina,Yes,None
+2060,California,No,None
+2061,Montana,Yes,None
+2063,South Carolina,Yes,None
+2064,South Carolina,Contiguous,None
+2065,South Carolina,No,None
+2066,Connecticut,No,None
+2067,Illinois,No,None
+2069,Massachusetts,No,None
+2070,Kansas,No,None
+2071,Colorado,Yes,None
+2072,California,No,None
+2073,California,No,None
+2074,Oklahoma,No,None
+2075,Rhode Island,Yes,None
+2081,South Carolina,No,None
+2082,California,Yes,None
+2083,California,No,None
+2085,South Carolina,No,None
+2086,South Carolina,No,None
+2087,New York,No,None
+2088,California,No,None
+2089,Kansas,No,None
+2090,California,No,None
+2091,Delaware,Yes,None
+2092,New Mexico,No,None
+2093,New York,Yes,None
+2094,Massachusetts,Yes,None
+2096,Ohio,No,None
+2097,Connecticut,No,None
+2098,Wisconsin,Yes,None
+2099,Illinois,Yes,None
+2100,Missouri,No,None
+2101,New Jersey,No,None
+2103,Kentucky,No,None
+2104,Ohio,No,None
+2105,Oregon,Yes,None
+2108,Maine,Yes,None
+2109,Virginia,Yes,None
+2111,Missouri,Contiguous,None
+2112,New Jersey,Yes,None
+2113,California,No,None
+2114,South Carolina,Yes,None
+2116,Tennessee,Yes,None
+2117,Tennessee,No,None
+2118,Tennessee,No,None
+2119,Tennessee,Yes,None
+2121,Tennessee,Yes,None
+2122,Tennessee,Yes,None
+2124,Pennsylvania,Yes,None
+2125,California,No,None
+2126,Arizona,Yes,None
+2127,California,Yes,None
+2128,Kansas,Yes,None
+2129,Virginia,No,None
+2130,Tennessee,Yes,None
+2131,California,Yes,None
+2132,Connecticut,Yes,None
+2134,New Jersey,No,None
+2136,Tennessee,Yes,None
+2139,Tennessee,Yes,None
+2140,Iowa,No,None
+2142,Arkansas,No,None
+2143,Illinois,No,None
+2144,Tennessee,Contiguous,None
+2145,Tennessee,Yes,None
+2146,Tennessee,Yes,None
+2147,Tennessee,No,None
+2149,Tennessee,No,None
+2151,Tennessee,Yes,None
+2152,Tennessee,Yes,None
+2153,Connecticut,No,None
+2155,Tennessee,Yes,None
+2156,Texas,Yes,None
+2157,Tennessee,No,None
+2158,New York,No,None
+2159,Minnesota,Yes,None
+2162,California,No,None
+2164,Tennessee,Yes,None
+2167,Tennessee,No,None
+2168,Tennessee,No,None
+2169,Texas,Yes,None
+2172,California,Yes,None
+2174,Texas,No,None
+2180,Texas,No,None
+2183,Missouri,Yes,None
+2184,Florida,No,None
+2185,Wisconsin,Yes,None
+2187,Texas,No,None
+2189,California,Yes,None
+2190,Connecticut,Yes,None
+2194,Texas,No,None
+2195,Ohio,No,None
+2197,Texas,No,None
+2198,Texas,No,None
+2200,Texas,Yes,None
+2202,Texas,Yes,None
+2204,Texas,No,None
+2205,Texas,No,None
+2206,Texas,No,None
+2207,Texas,No,None
+2208,Texas,No,None
+2209,Texas,No,None
+2210,Texas,No,None
+2211,Texas,Yes,None
+2212,Texas,Yes,None
+2214,Non-US / Unknown,No,None
+2215,Non-US / Unknown,No,None
+2216,Utah,No,None
+2218,Utah,No,None
+2219,Massachusetts,No,None
+2220,Utah,Yes,None
+2221,Utah,Yes,None
+2223,Utah,Yes,None
+2225,Utah,Yes,None
+2232,Virginia,No,None
+2237,Virginia,Yes,None
+2238,North Carolina,Yes,None
+2240,Washington,No,None
+2244,New Hampshire,No,None
+2247,Virginia,Yes,None
+2248,Virginia,No,None
+2249,Virginia,Yes,None
+2250,Virginia,Yes,None
+2251,Arizona,Yes,None
+2253,Maine,No,None
+2254,Illinois,No,None
+2255,Ohio,Yes,None
+2256,Georgia,No,None
+2257,Arizona,No,None
+2259,Georgia,Yes,None
+2260,California,Yes,None
+2262,Michigan,No,None
+2263,New Jersey,No,None
+2266,Arizona,Yes,None
+2268,Idaho,Yes,None
+2270,Missouri,No,None
+2271,Virginia,No,None
+2273,Vermont,No,None
+2274,Vermont,Yes,None
+2276,Vermont,No,None
+2278,Vermont,No,None
+2279,Vermont,No,None
+2281,Vermont,No,None
+2283,Vermont,No,None
+2284,Vermont,No,None
+2285,Connecticut,No,None
+2286,Vermont,Yes,None
+2287,Georgia,Yes,None
+2288,Rhode Island,No,None
+2290,Ohio,Yes,None
+2291,Kansas,No,None
+2292,Vermont,No,None
+2293,Vermont,No,None
+2294,Vermont,No,None
+2295,Vermont,No,None
+2296,Vermont,Yes,None
+2297,Vermont,Yes,None
+2299,Washington,No,None
+2300,Washington,No,None
+2301,New Jersey,Yes,None
+2302,Tennessee,Yes,None
+2303,Washington,No,None
+2304,Washington,No,None
+2305,Pennsylvania,No,None
+2306,Washington,No,None
+2307,Arkansas,No,None
+2308,Connecticut,No,None
+2309,Oregon,Yes,None
+2311,Washington,Yes,None
+2313,California,Yes,None
+2316,California,No,None
+2317,California,No,None
+2318,New Jersey,Yes,None
+2319,Washington,No,None
+2320,Washington,No,None
+2321,Washington,No,None
+2322,Washington,Yes,None
+2323,Washington,No,None
+2324,Washington,Yes,None
+2325,Washington,No,None
+2326,Washington,Yes,None
+2327,Washington,No,None
+2328,Washington,Yes,None
+2329,Washington,Yes,None
+2331,Washington,Yes,None
+2332,Washington,No,None
+2333,Washington,Yes,None
+2336,Washington,No,None
+2337,Washington,Yes,None
+2338,Washington,Yes,None
+2339,Washington,No,None
+2340,Washington,Yes,None
+2341,Washington,No,None
+2342,Washington,No,None
+2343,Washington,Yes,None
+2347,Wisconsin,Yes,None
+2348,Wisconsin,No,None
+2351,Wisconsin,Yes,None
+2352,Wisconsin,Yes,None
+2354,Wisconsin,Yes,None
+2355,Wisconsin,No,None
+2357,Wisconsin,No,None
+2358,Wisconsin,No,None
+2360,Wisconsin,Yes,None
+2361,Wisconsin,No,None
+2363,Wisconsin,No,None
+2364,Wisconsin,No,None
+2365,Wisconsin,No,None
+2366,Wisconsin,Yes,None
+2367,Wisconsin,No,None
+2369,Wisconsin,Yes,None
+2370,Wisconsin,No,None
+2371,Wisconsin,Yes,None
+2372,Wisconsin,Yes,None
+2373,Wisconsin,Yes,None
+2374,Wisconsin,Yes,None
+2375,Ohio,Yes,None
+2377,Wisconsin,No,None
+2378,Wisconsin,Yes,None
+2379,Wisconsin,Yes,None
+2380,Wisconsin,Yes,None
+2381,Minnesota,No,None
+2382,California,No,None
+2383,Wisconsin,No,None
+2384,Wisconsin,Yes,None
+2385,Wisconsin,Yes,None
+2388,Wisconsin,Yes,None
+2389,Wisconsin,Yes,None
+2390,Wisconsin,No,None
+2392,Illinois,Yes,None
+2393,Wisconsin,No,None
+2394,Kansas,Yes,None
+2396,Wisconsin,No,None
+2397,Wisconsin,No,None
+2399,Kansas,No,None
+2400,Wisconsin,Yes,None
+2402,Wisconsin,Yes,None
+2403,Kansas,No,None
+2404,Kansas,No,None
+2406,New York,Yes,None
+2410,Kansas,No,None
+2411,Washington,No,None
+2413,Indiana,Yes,None
+2414,Connecticut,No,None
+2415,California,Yes,None
+2416,New York,No,None
+2417,Alabama,No,None
+2418,Illinois,Yes,None
+2419,Wisconsin,No,None
+2420,Arkansas,No,None
+2422,Wisconsin,No,None
+2425,Wisconsin,Yes,None
+2427,Wyoming,Yes,None
+2430,Wyoming,Yes,None
+2431,California,Yes,None
+2434,Non-US / Unknown,No,None
+2435,Non-US / Unknown,No,None
+2436,Non-US / Unknown,No,None
+2441,Non-US / Unknown,No,None
+2442,Non-US / Unknown,No,None
+2444,Non-US / Unknown,No,None
+2445,Non-US / Unknown,No,None
+2446,Non-US / Unknown,No,None
+2447,Ohio,No,None
+2448,Arkansas,No,None
+2449,Connecticut,No,None
+2450,Massachusetts,No,None
+2451,Vermont,No,None
+2452,Massachusetts,Yes,None
+2455,Non-US / Unknown,No,None
+2456,Non-US / Unknown,No,None
+2464,Rhode Island,No,None
+2465,Kentucky,No,None
+2468,Iowa,Yes,None
+2469,Massachusetts,No,None
+2470,Connecticut,No,None
+2473,Wisconsin,Yes,None
+2476,Tennessee,Yes,None
+2477,Pennsylvania,Yes,None
+2478,New Jersey,Yes,None
+2480,Non-US / Unknown,No,None
+2481,Non-US / Unknown,No,None
+2482,Non-US / Unknown,No,None
+2486,Non-US / Unknown,No,None
+2487,Mississippi,Yes,None
+2488,New York,Yes,None
+2489,Vermont,No,None
+2494,Non-US / Unknown,No,None
+2496,Non-US / Unknown,No,None
+2498,Non-US / Unknown,No,None
+2500,Non-US / Unknown,No,None
+2503,Illinois,No,None
+2504,Non-US / Unknown,No,None
+2505,Non-US / Unknown,No,None
+2506,Illinois,No,None
+2507,Illinois,No,None
+2508,Non-US / Unknown,No,None
+2509,Massachusetts,No,None
+2510,Maine,No,None
+2512,Non-US / Unknown,No,None
+2514,Rhode Island,Yes,None
+2516,Non-US / Unknown,No,None
+2519,Non-US / Unknown,No,None
+2520,Connecticut,No,None
+2521,Massachusetts,No,None
+2522,Ohio,Yes,None
+2526,Non-US / Unknown,No,None
+2527,Non-US / Unknown,No,None
+2528,Non-US / Unknown,No,None
+2529,Non-US / Unknown,No,None
+2530,Non-US / Unknown,No,None
+2534,Massachusetts,No,None
+2535,Vermont,No,None
+2537,Missouri,No,None
+2540,Hawaii,No,None
+2542,Iowa,No,None
+2544,Connecticut,No,None
+2545,Massachusetts,No,None
+2546,Connecticut,No,None
+2549,Non-US / Unknown,No,None
+2550,North Carolina,Yes,None
+2552,Connecticut,No,None
+2554,Ohio,Yes,None
+2557,Washington,No,None
+2558,Illinois,No,None
+2560,Non-US / Unknown,No,None
+2564,Non-US / Unknown,No,None
+2565,Non-US / Unknown,No,None
+2568,Non-US / Unknown,No,None
+2569,Non-US / Unknown,No,None
+2570,Non-US / Unknown,No,None
+2571,Non-US / Unknown,No,None
+2573,Non-US / Unknown,No,None
+2574,New Jersey,No,None
+2576,Arkansas,Yes,None
+2577,Non-US / Unknown,No,None
+2579,Non-US / Unknown,No,None
+2581,Connecticut,No,None
+2582,Non-US / Unknown,No,None
+2583,New Jersey,Yes,None
+2584,Non-US / Unknown,No,None
+2587,Illinois,No,None
+2588,Non-US / Unknown,No,None
+2589,Non-US / Unknown,No,None
+2590,Non-US / Unknown,No,None
+2593,Rhode Island,Yes,None
+2596,Massachusetts,Yes,None
+2597,Non-US / Unknown,No,None
+2600,Non-US / Unknown,No,None
+2603,Virginia,Yes,None
+2605,Massachusetts,No,None
+2606,Wisconsin,No,None
+2607,Wisconsin,No,None
+2608,Non-US / Unknown,No,None
+2609,Non-US / Unknown,No,None
+2611,Non-US / Unknown,No,None
+2613,North Carolina,No,None
+2614,Massachusetts,Yes,None
+2615,New Jersey,No,None
+2618,Non-US / Unknown,No,None
+2619,Non-US / Unknown,No,None
+2620,Non-US / Unknown,No,None
+2624,California,Yes,None
+2625,Washington,Yes,None
+2626,New York,Yes,None
+2628,Pennsylvania,Yes,None
+2629,Washington,Yes,None
+2630,Pennsylvania,Yes,None
